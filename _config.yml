@@ -1,25 +1,25 @@
 # Site settings
-title: Conference Name, Year
-email: your-email@domain.com
+title: Workshop on Deep Probabilistic Models, 2016
+email: andreas.damianou@sheffield.ac.uk
 description: > # this means to ignore newlines until "baseurl:"
   Write a description for your conference or meeting here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-baseurl: "/confweb" # the subpath of your site, e.g. /blog/
-url: "http://opendsi.cc" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+baseurl: "/deepp16" # the subpath of your site, e.g. /blog/
+url: "http://gpss.cc" # the base hostname & protocol for your site
+twitter_username: DataScienceShef
+github_username:  gpschool
 
 
 # Build settings
 future: true
 
 permalink: "/:categories/:title.html"
-banner: nice_conference_banner.jpeg
+banner: 
 
 analytics:
  google:
-   tracking_id: # Google tracking ID if applicable
+   tracking_id: UA-62991754-1
 
 youtube:
   height: 315
@@ -27,21 +27,22 @@ youtube:
 
 conference:
   room: Room
-  venue: Convention Centre
-  location: City, Country
-  name: Conference Name
-  year: 2017
+  venue: Royal Society, Carlton Terrace
+  location: London, UK
+  name: Workshop on Deep Probabilistic Models
+  year: 2016
   month: September
   dates:
-  - 2017-09-12
-  - 2017-09-13
-  draft: true # set to True if the programme is draft only.
+  - 2016-06-08
+  draft: false # set to True if the programme is draft only.
   hosts:
   organizers:
-  - name: Jack Jones
-    url: "http://jackjones.org"
-  - name: Bill Bloggs
-    url: "http://billblogs.org"
+  - name: Andreas Damianou
+    url: "http://adamian.github.io/"
+  - name: Zoubin Ghahramani
+    url: "http://mlg.eng.cam.ac.uk/zoubin/"
+  - name: Neil Lawrence
+    url: "http://inverseprobability.com"
 
 map:
   show: False
