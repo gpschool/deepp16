@@ -1,2 +1,3 @@
-# confweb
-Some a base Jekyll site for hosting conference web pages.
+# deepp16
+
+Deep probabilistic models workshop 2016.
