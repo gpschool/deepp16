@@ -2,9 +2,7 @@
 title: Workshop on Deep Probabilistic Models, 2016
 email: andreas.damianou@sheffield.ac.uk
 description: > # this means to ignore newlines until "baseurl:"
-  Write a description for your conference or meeting here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is the third informal round table on Deep Probabilistic models. This meeting is sponsored by EPSRC grant number EP/N014162/1, "Deep Probabilistic Models for Making Sense of Unstructured Data"
 baseurl: "/deepp16" # the subpath of your site, e.g. /blog/
 url: "http://gpss.cc" # the base hostname & protocol for your site
 twitter_username: DataScienceShef
@@ -26,8 +24,8 @@ youtube:
   width: 560
 
 conference:
-  room: Room
-  venue: Royal Society, Carlton Terrace
+  room: Mercer Room
+  venue: Royal Society, 6-9 Carlton House Terrace
   location: London, UK
   name: Workshop on Deep Probabilistic Models
   year: 2016
